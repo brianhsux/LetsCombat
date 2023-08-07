@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
@@ -46,4 +46,10 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 3533016553
+    locked: 0
+  - name: Ground
+    uniqueID: 3551148713
+    locked: 0
+  - name: Player
+    uniqueID: 412582423
     locked: 0
